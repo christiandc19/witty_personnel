@@ -57,6 +57,16 @@
     text-align: center;
 }
 
+.footer a {
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.footer a:hover {
+    color: goldenrod;
+}
+
 .footer-col {
     width: 300px;
 }

@@ -30,7 +30,7 @@ const ContactForm = () => {
 
     <div className="contact2-header contact2-container">
         <h1>DO YOU NEED URGENT HELP?</h1>
-        <p>Our Support team is available 24 hours a day 7 Days a week.</p>
+        <p>Our Support team is available to assist you.</p>
     </div>
 
 <div class="contact2-container">
@@ -54,7 +54,7 @@ const ContactForm = () => {
         <div class="email details">
           <i class="fas fa-envelope"></i>
           <div class="topic">Email</div><br/>
-          <div class="text-one"> info@55silver.biz</div>
+          <div class="text-one"> info@wittypersonnel.com</div>
         </div>
       </div>
 

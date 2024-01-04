@@ -54,6 +54,8 @@ const Footer = () => {
                     <div className="footer-col">
                         <h3>Corporate office</h3>
                         <p>1800 Vine Street, Los Angeles CA 90028</p>
+                        <p><a href="tel:3105267505">  (310) 526-7505</a></p>
+
                     </div>
 
                 </div>
