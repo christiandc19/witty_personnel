@@ -14,7 +14,7 @@
   .contact-hero:before {
     content: '';
     position: absolute;
-    background: linear-gradient(to top, #4b919456, #29363656), url('../../assets/menu-bg-contact.jpg') no-repeat center top/cover;
+    background: linear-gradient(to top, #4b919456, #29363656), url('../../assets/menu-bg-contact.webp') no-repeat center top/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -23,12 +23,13 @@
 .contact-hero .contact-hero-content {
     display: block;
     position: absolute;
-    top: 35%;
+    bottom: 10%;
+    right: 5%;
     padding: 1rem;
 }
 
 .contact-hero h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     font-family: 'Montserrat', sans-serif;
     color: white;
 }
@@ -52,9 +53,26 @@
 .contact-hero h2 {
     color: white;
     font-size: 1.5rem;
+    text-align: center;
 }
 
 .contact-hero h1 {
     font-size: 3rem;
+    text-align: center;
 }
+
+.contact-hero p {
+    text-align: center;
+}
+
+.contact-hero .contact-hero-content {
+    display: block;
+    position: absolute;
+    bottom: 10%;
+    right: 0%;
+    padding: 1rem;
+    text-align: center;
+}
+
+
 }

@@ -14,7 +14,7 @@ const Footer = () => {
             <div className="footer-container container">
                 <div className="top">
                     <div className="logo-footer">
-                    <img src={logo} width="150px" height="60px" alt="Palm Springs Rehab Logo" loading="lazy"/>
+                    <img src={logo} alt="Witty Personnel Logo" loading="lazy"/>
                     </div>
                     <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500} >
                         <BsFillArrowUpCircleFill className='footer-icon' />
@@ -57,7 +57,7 @@ const Footer = () => {
                     </div>
 
                 </div>
-                <p className='copyright'><p>&copy; 2023 55 SILVER. ALL RIGHTS RESERVED.</p></p>
+                <p className='copyright'><p>&copy; 2023 WITTY PERSONNEL. ALL RIGHTS RESERVED.</p></p>
 
 
             </div>

@@ -1,8 +1,7 @@
 import React from "react";
 import { Link as LinkRoll } from "react-scroll";
 import { Link } from 'react-router-dom';
-
-import Fade from 'react-reveal/Fade';
+import Zoom from 'react-reveal/Zoom';
 
 import "./Hero.css";
 
@@ -15,21 +14,21 @@ const Hero = () => {
 
   <div className="hero-caption">
 
-    <Fade left>
-    <h1>LIVE <span>SOBER.</span> </h1>
-    </Fade>
-    <Fade right>
+    <Zoom duration={1000}>
+      <h1>LIVE <span>SOBER.</span> </h1>
+    </Zoom>
+    <Zoom duration={3000}>
     <h1>HEAL <span>STRONGER.</span></h1>
-    </Fade>
+    </Zoom>
 
-    <Fade left>
+    <Zoom duration={4000}>
     <h2>Safety. Structure. Support. Healing</h2>
-    </Fade>
+    </Zoom>
 
-    <Fade right>
+    <Zoom duration={5000}>
     <p>Transitional sober housing focused on healing and long-term recovery.
 </p>
-    </Fade>
+    </Zoom>
 
     <LinkRoll
                 activeClass="active"
@@ -39,7 +38,9 @@ const Hero = () => {
                 duration={500}
               >
           <Link to="/contact">
-                <button>Call Us</button>
+            <div className="hero-btn">
+              <button>CALL US</button>
+            </div>
           </Link>
       </LinkRoll>
 

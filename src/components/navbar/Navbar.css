@@ -7,6 +7,8 @@
     position: absolute;
     z-index: 10;
     background: rgb(255, 255, 255);
+
+
 }
 
 .navbar .navbar-container {
@@ -24,12 +26,13 @@
 
 .navbar-logo img {
   width: 100%;
+  padding: 5px;
 
 }
 
 .navbar .icon {
   font-size: 1.4rem;
-  color: rgb(0, 0, 0);
+  color: #3E7B99;
 }
 
 .navbar .logo .icon {
@@ -121,11 +124,11 @@
 
 
     .navbar li {
-      color: #f3ecec;
+      color: #000000;
     }
 
     .navbar li a {
-      color: #f3ecec;
+      color: #000000;
     }
 
     .navbar .nav-menu {
@@ -136,7 +139,7 @@
         top: 0;
         left:-100%;
         justify-content: center;
-        background: var(--primary-color);
+        background: white;
         transition: 0.5s ease-in;
     }
 

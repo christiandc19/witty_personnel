@@ -13,7 +13,7 @@
   .SoberLiving:before {
     content: '';
     position: absolute;
-    background: linear-gradient(to top, #4b919456, #29363656), url('../../assets//menu-bg-sober-living.webp') no-repeat center center/cover;
+    background: linear-gradient(to top, #17181856, #1a1b1b56), url('../../assets//menu-bg-sober-living.webp') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -23,14 +23,14 @@
   .SoberLiving .SoberLiving-content {
     display: block;
     position: absolute;
-    top: 35%;
+    bottom: 20%;
     padding: 1rem;
 }
 
 
 .SoberLiving h1 {
     color: white;
-    font-size: 4rem;
+    font-size: 3rem;
 }
 
 
@@ -42,25 +42,7 @@
   }
 
 
-.SoberLiving-wrap .SoberLiving-title h1 {
-    font-size: 1.5rem;
-    text-align: left;
-    font-family: 'Montserrat', sans-serif;
-    color: var(--primary-color);
-    font-weight: 400;
-}
 
-
-.SoberLiving-box {
-    width: 500px;
-}
-
-.SoberLiving-box img {
-     height: auto;
-     width: 100%;
-     border-radius: 20px;
-     padding: 10px;
-}
 
 
 /* MEDIA QUERIES - HERO */
@@ -68,7 +50,7 @@
 @media screen and (max-width:940px) {
 
 .SoberLiving h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
 }
 

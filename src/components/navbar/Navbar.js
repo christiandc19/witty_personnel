@@ -50,7 +50,7 @@ const Navbar = () => {
                 
                  <div className="navbar-logo">
                     <Link to='/'>
-                    <img src={logo} alt="55 Silver Logo" loading="lazy"/>
+                    <img src={logo} alt="Witty Personnel Logo" loading="lazy"/>
                     </Link>
                 </div>
 

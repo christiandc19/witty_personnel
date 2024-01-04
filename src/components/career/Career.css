@@ -14,7 +14,7 @@
   .career:before {
     content: '';
     position: absolute;
-    background: linear-gradient(to top, #11111156, #191a1a56), url('../../assets/career.webp') no-repeat center top/cover;
+    background: linear-gradient(to top, #11111125, #191a1a28), url('../../assets/career.webp') no-repeat center top/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -24,7 +24,7 @@
 .career .career-content {
     display: block;
     position: absolute;
-    top: 40%;
+    bottom: 20%;
     left: 10%;
     padding: 1rem;
 }
