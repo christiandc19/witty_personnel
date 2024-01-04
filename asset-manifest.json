@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/witty_personnel/static/css/main.180683cc.css",
-    "main.js": "/witty_personnel/static/js/main.cfe52cd6.js",
+    "main.css": "/witty_personnel/static/css/main.9fa79607.css",
+    "main.js": "/witty_personnel/static/js/main.ccd13cac.js",
     "static/media/treatment-3.jpg": "/witty_personnel/static/media/treatment-3.bb48e149b127eeed5efd.jpg",
     "static/media/hero_1.jpg": "/witty_personnel/static/media/hero_1.512e20f6ad73e7abb1a2.jpg",
     "static/media/hero_2.jpg": "/witty_personnel/static/media/hero_2.145d2cd19fbb52656801.jpg",
@@ -30,11 +30,11 @@
     "static/media/venice-retreat1.webp": "/witty_personnel/static/media/venice-retreat1.315e447e2bfff34dffa0.webp",
     "static/media/menu-bg-west-hollywood.webp": "/witty_personnel/static/media/menu-bg-west-hollywood.d4e814944db36cc28e39.webp",
     "index.html": "/witty_personnel/index.html",
-    "main.180683cc.css.map": "/witty_personnel/static/css/main.180683cc.css.map",
-    "main.cfe52cd6.js.map": "/witty_personnel/static/js/main.cfe52cd6.js.map"
+    "main.9fa79607.css.map": "/witty_personnel/static/css/main.9fa79607.css.map",
+    "main.ccd13cac.js.map": "/witty_personnel/static/js/main.ccd13cac.js.map"
   },
   "entrypoints": [
-    "static/css/main.180683cc.css",
-    "static/js/main.cfe52cd6.js"
+    "static/css/main.9fa79607.css",
+    "static/js/main.ccd13cac.js"
   ]
 }
