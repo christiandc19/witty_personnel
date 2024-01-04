@@ -14,7 +14,6 @@
   .soberLivingSection:before {
     content: '';
     position: absolute;
-    background: url('../../assets/bg1.jpg') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -31,13 +30,24 @@
     padding: 3rem 0;
 }
 
-.soberLivingSection-right {
+.soberLivingSection-image {
     width: 400px;
     text-align: center;
     margin: auto;
 }
 
-.soberLivingSection-right img {
+.soberLivingSection-image img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.soberLivingSection-image2 {
+    width: 200px;
+    text-align: center;
+    margin: auto;
+}
+
+.soberLivingSection-image2 img {
     width: 100%;
     border-radius: 1rem;
 }
@@ -91,7 +101,7 @@
     }
 
     .soberLivingSection-right {
-        width: 100%;
+        width: 50%;
         margin: auto;
         padding: 1rem;
     } 
@@ -111,5 +121,10 @@
     .soberLivingSection-content h2 {
     text-align: center;
 }
+    
+}
+
+
+@media screen and (max-width:600px) {
     
 }

@@ -104,7 +104,7 @@ const SoberLivingSection = () => {
 
 
 
-          <div className="soberLivingSection-right">
+          <div className="soberLivingSection-image">
             <img src={WhatWeDoImg1} loading="lazy" alt="psychologist" />
           </div>
         </div>
@@ -118,7 +118,7 @@ const SoberLivingSection = () => {
 <div className="soberLivingSection-content soberLivingSection2-content container">
 
 
-<div className="soberLivingSection-right">
+<div className="soberLivingSection-image">
         <img src={WhatWeDoImg2} loading="lazy" alt="psychologist" />
 </div>
 
@@ -286,7 +286,7 @@ const SoberLivingSection = () => {
 
 
 
-          <div className="soberLivingSection-right">
+          <div className="soberLivingSection-image2">
             <img src={WhatWeDoImg3} loading="lazy" alt="psychologist" />
           </div>
         </div>
