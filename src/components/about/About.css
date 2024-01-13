@@ -25,6 +25,7 @@
     display: block;
     position: absolute;
     bottom: 20%;
+    left: 10%;
     padding: 1rem;
 }
 
@@ -47,5 +48,12 @@
 
 .mission h1 {
     font-size: 3rem;
+    text-align: center;
 }
+
+.mission .mission-content {
+    left: 0%;
+    width: 100%;
+}
+
 }
