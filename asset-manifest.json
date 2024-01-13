@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/witty_personnel/static/css/main.fbc053a0.css",
-    "main.js": "/witty_personnel/static/js/main.f137d42f.js",
+    "main.css": "/witty_personnel/static/css/main.5d55cdb3.css",
+    "main.js": "/witty_personnel/static/js/main.0840756d.js",
     "static/media/treatment-3.jpg": "/witty_personnel/static/media/treatment-3.bb48e149b127eeed5efd.jpg",
     "static/media/hero_1.jpg": "/witty_personnel/static/media/hero_1.512e20f6ad73e7abb1a2.jpg",
     "static/media/hero_2.jpg": "/witty_personnel/static/media/hero_2.145d2cd19fbb52656801.jpg",
     "static/media/treatment-2.jpg": "/witty_personnel/static/media/treatment-2.e9bc74dc2acb65f4d66c.jpg",
     "static/media/menu-bg-sober-living.webp": "/witty_personnel/static/media/menu-bg-sober-living.a085a655ac17468e6225.webp",
-    "static/media/menu-bg-about-us.webp": "/witty_personnel/static/media/menu-bg-about-us.3e1449d1a05283a5a24b.webp",
     "static/media/menu-bg-contact.webp": "/witty_personnel/static/media/menu-bg-contact.94bfe875e321012078c5.webp",
     "static/media/card4.jpg": "/witty_personnel/static/media/card4.c7e4f1dd62100f71b493.jpg",
     "static/media/treatment-1.webp": "/witty_personnel/static/media/treatment-1.26770cab4cb01645f1d9.webp",
@@ -22,19 +21,20 @@
     "static/media/bg.jpg": "/witty_personnel/static/media/bg.9f0a2d92df7dd0a9491b.jpg",
     "static/media/card5.jpg": "/witty_personnel/static/media/card5.8fa4a8405e59394e84e2.jpg",
     "static/media/missionSection1.webp": "/witty_personnel/static/media/missionSection1.a140c1565c8b9c08b815.webp",
-    "static/media/nav-logo-bl.png": "/witty_personnel/static/media/nav-logo-bl.c64275ca65d8869b70ac.png",
-    "static/media/nav-logo.png": "/witty_personnel/static/media/nav-logo.7116b06c08a59fe8cf79.png",
+    "static/media/menu-bg-about-us.webp": "/witty_personnel/static/media/menu-bg-about-us.c615174c2fa06ec12a95.webp",
+    "static/media/nav-logo-5.png": "/witty_personnel/static/media/nav-logo-5.8e22e7c84b28c81a1ffa.png",
     "static/media/menu-bg-huntington-beach-min.webp": "/witty_personnel/static/media/menu-bg-huntington-beach-min.710bdd8009ed86049b49.webp",
     "static/media/missionHome.webp": "/witty_personnel/static/media/missionHome.3ea406e9ba9acd422278.webp",
     "static/media/servicesSection1-min.webp": "/witty_personnel/static/media/servicesSection1-min.1baa4aa22535287a5b77.webp",
+    "static/media/nav-logo.png": "/witty_personnel/static/media/nav-logo.2bc9b784691333c330f5.png",
     "static/media/venice-retreat1.webp": "/witty_personnel/static/media/venice-retreat1.315e447e2bfff34dffa0.webp",
     "static/media/menu-bg-west-hollywood.webp": "/witty_personnel/static/media/menu-bg-west-hollywood.d4e814944db36cc28e39.webp",
     "index.html": "/witty_personnel/index.html",
-    "main.fbc053a0.css.map": "/witty_personnel/static/css/main.fbc053a0.css.map",
-    "main.f137d42f.js.map": "/witty_personnel/static/js/main.f137d42f.js.map"
+    "main.5d55cdb3.css.map": "/witty_personnel/static/css/main.5d55cdb3.css.map",
+    "main.0840756d.js.map": "/witty_personnel/static/js/main.0840756d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbc053a0.css",
-    "static/js/main.f137d42f.js"
+    "static/css/main.5d55cdb3.css",
+    "static/js/main.0840756d.js"
   ]
 }
