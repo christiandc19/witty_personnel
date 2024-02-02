@@ -38,7 +38,7 @@ const Cards = () => {
 
 <div class="tile"> 
   <Fade left>
-  <img src={Card1} alt="Mental Health" loading="lazy"/>
+  <img src={Card1} alt="NORTH CITRUS HOMES" loading="lazy"/>
   </Fade>
   <div class="text">
   <h1>NORTH CITRUS, <br/> LOS ANGELES​</h1>
@@ -46,7 +46,9 @@ const Cards = () => {
     <div class="animate-text">
     <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
         <Link to="/north-citrus">
+          <div className='gallery-btn'>
             <button>Learn More</button>
+          </div>
         </Link>
     </LinkRoll>
     </div>
@@ -58,7 +60,7 @@ const Cards = () => {
 
 <div class="tile"> 
 <Fade top>
-<img src={Card2} alt="Substance Use" loading="lazy"/>
+<img src={Card2} alt="North Detroit Homes" loading="lazy"/>
 </Fade>
   <div class="text">
   <h1>NORTH DETROIT, <br/> LOS ANGELES​</h1>
@@ -66,7 +68,9 @@ const Cards = () => {
   <div class="animate-text">
     <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
         <Link to="/north-detroit">
+          <div className='gallery-btn'>
             <button>Learn More</button>
+          </div>
         </Link>
     </LinkRoll>
     </div>
@@ -78,7 +82,7 @@ const Cards = () => {
  
 <div class="tile"> 
 <Fade top>
-<img src={Card3} alt="Substance Use" loading="lazy"/>
+<img src={Card3} alt="Huntington Beach Homes" loading="lazy"/>
 </Fade>
   <div class="text">
   <h1>HUNTINGTON BEACH, <br/> CALIFORNIA</h1>
@@ -86,7 +90,9 @@ const Cards = () => {
   <div class="animate-text">
     <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
         <Link to="/huntington-beach">
+          <div className='gallery-btn'>
             <button>Learn More</button>
+          </div>
         </Link>
     </LinkRoll>
     </div>
@@ -96,7 +102,7 @@ const Cards = () => {
 
  <div class="tile"> 
 <Fade top>
-<img src={Card4} alt="Substance Use" loading="lazy"/>
+<img src={Card4} alt="West Hollywood Homes" loading="lazy"/>
 </Fade>
   <div class="text">
   <h1>WEST HOLLYWOOD, <br/> CALIFORNIA</h1>
@@ -104,7 +110,9 @@ const Cards = () => {
   <div class="animate-text">
     <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
         <Link to="/west-hollywood">
+          <div className='gallery-btn'>
             <button>Learn More</button>
+          </div>
         </Link>
     </LinkRoll>
     </div>
@@ -115,7 +123,7 @@ const Cards = () => {
   <div class="tile"> 
 
   <Fade right>
-  <img src={Card5} alt="Warehouse Employees" loading="lazy"/>
+  <img src={Card5} alt="Venice, California Homes" loading="lazy"/>
   </Fade>
   <div class="text">
   <h1>VENICE, <br/> CALIFORNIA</h1>
@@ -123,7 +131,9 @@ const Cards = () => {
   <div class="animate-text">
     <LinkRoll activeClass="active" to="top" spy={true} smooth={true} duration={500}>
         <Link to="/venice">
+          <div className='gallery-btn'>
             <button>Learn More</button>
+          </div>
         </Link>
     </LinkRoll>
     </div>
