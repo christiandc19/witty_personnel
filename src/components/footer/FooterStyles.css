@@ -3,10 +3,10 @@
 
 .footer {
     width: 100%;
-    height: 50vh;
+    height: auto;
     position: relative;
     background: var(--primary-color);
-    padding: 3rem 0;
+    padding: 1rem 0;
 }
 
 
